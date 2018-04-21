@@ -21,6 +21,7 @@ You can read more about this in here: https://support.apple.com/en-au/HT202612
 
 - https://www.imore.com/how-use-guided-access-iphone-and-ipad
 
+# Few articles talks about security of guided access mode pr kiosk mode
 There are numeraous articles online, which talks about how Guided Access Mode security allows you to handover your phone to someone without worrying about them to get out of the app and read your messages or look into your private photos etc.
 
 1) How to use Guided Access to secure your iPad or iPhone
