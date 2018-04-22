@@ -70,7 +70,7 @@ Please follow the steps to break out of the Guided Access mode and see users tex
 
 7) Now, click on the share option in the Safari Browser to see where can we share the Browser link.<br>
 
-![image]https://user-images.githubusercontent.com/3501170/39090217-1d52b66a-461c-11e8-9b59-b50fde3719b7.png)
+![image](https://user-images.githubusercontent.com/3501170/39090285-7b6aeac2-461e-11e8-919e-be5d18a57699.png)
 
 8) Click on the Message icon<br>
 ![image](https://user-images.githubusercontent.com/3501170/39090220-3fb985a8-461c-11e8-98da-132bf8ec25cc.png)
