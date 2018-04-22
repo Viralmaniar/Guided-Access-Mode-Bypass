@@ -63,3 +63,25 @@ Please follow the steps to break out of the Guided Access mode and see users tex
 5) User gets the warning message saying that the “Guided Access is enabled. Triple-click the home button or use Touch ID to exit”. Basically, at this point of time user can’t access the message application and hence can’t read any text messages on the device.
 
 ![image](https://user-images.githubusercontent.com/3501170/39090201-c1485ffa-461b-11e8-834b-87d98967b12e.png)
+
+6) On clicking the home button thrice user needs to put the PIN to access other applications on the phone.
+
+![image](https://user-images.githubusercontent.com/3501170/39090210-01582d00-461c-11e8-9f7b-f75a467bd58b.png)
+
+7) Now, click on the share option in the Safari Browser to see where can we share the Browser link.
+
+https://user-images.githubusercontent.com/3501170/39090217-1d52b66a-461c-11e8-9b59-b50fde3719b7.png
+
+8) Click on the Message icon
+![image](https://user-images.githubusercontent.com/3501170/39090220-3fb985a8-461c-11e8-98da-132bf8ec25cc.png)
+
+9) It opens the Message application inside Guided Access mode. Now click on the ⊕ button to see the contact details.
+![image](https://user-images.githubusercontent.com/3501170/39090223-618862e4-461c-11e8-8e2f-79ebab5040b6.png)
+
+10) Choose the individual contact from the contacts and one can read all the text messages between 2 parties even though one is using Guided Access mode.
+![image](https://user-images.githubusercontent.com/3501170/39090235-c0f58fb8-461c-11e8-841e-1d5b361a2161.png)
+
+11) Same goes for the other applications. Share the link from Browser with Notes or Reminders application to get access to sensitive information from those applications.
+
+![image](https://user-images.githubusercontent.com/3501170/39090258-7a38afb4-461d-11e8-801c-8cacd93fe5db.png)
+
