@@ -48,12 +48,16 @@ Please follow the steps to break out of the Guided Access mode and see users tex
 1)  Go to settings and turn on the Guided Access feature <br>
 ![image](https://user-images.githubusercontent.com/3501170/39089917-8d8c3616-4614-11e8-9481-33c64389dd4a.png)
 
-2) It allows user to set the passcode. Set the passcode so that user cannot disable the feature and snoop into other application.
+2) It allows user to set the passcode. Set the passcode so that user cannot disable the feature and snoop into other application.<br>
 ![image](https://user-images.githubusercontent.com/3501170/39089927-dbc1b874-4614-11e8-99c7-29764e101d3b.png)
-![image](https://user-images.githubusercontent.com/3501170/39089929-e8e23c7c-4614-11e8-9234-38541769d824.png)
 
-3) Open Safari Browser on the device and press the home button thrice to put the phone into <B><I>Guided Access Mode or Kiosk Mode</I></B>. Here the user assumes that one should not be able to read or use other applications on the phone as the phone is in Guided Access mode.
+3) Open Safari Browser on the device and press the home button thrice to put the phone into <B><I>Guided Access Mode or Kiosk Mode</I></B>. Here the user assumes that one should not be able to read or use other applications on the phone as the phone is in Guided Access mode. <br>
 
-![image](https://user-images.githubusercontent.com/3501170/39089937-2f67aaec-4615-11e8-9d18-4009f05b4274.png)
+![image](https://user-images.githubusercontent.com/3501170/39089937-2f67aaec-4615-11e8-9d18-4009f05b4274.png)<Br>
 
-
+4) Try to call the application directly from the URL using hard links. <Br>
+- To open: Mail type: message:// <Br>
+- To open: Messages type: sms:// <Br>
+![image](https://user-images.githubusercontent.com/3501170/39090144-379786b0-461a-11e8-8963-6ac92ff35dac.png) <Br>
+    
+5) 
