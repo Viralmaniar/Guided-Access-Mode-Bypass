@@ -60,4 +60,6 @@ Please follow the steps to break out of the Guided Access mode and see users tex
 - To open: Messages type: sms:// <Br>
 ![image](https://user-images.githubusercontent.com/3501170/39090144-379786b0-461a-11e8-8963-6ac92ff35dac.png) <Br>
     
-5) 
+5) User gets the warning message saying that the “Guided Access is enabled. Triple-click the home button or use Touch ID to exit”. Basically, at this point of time user can’t access the message application and hence can’t read any text messages on the device.
+
+![image](https://user-images.githubusercontent.com/3501170/39090201-c1485ffa-461b-11e8-834b-87d98967b12e.png)
