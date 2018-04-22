@@ -53,35 +53,41 @@ Please follow the steps to break out of the Guided Access mode and see users tex
 
 3) Open Safari Browser on the device and press the home button thrice to put the phone into <B><I>Guided Access Mode or Kiosk Mode</I></B>. Here the user assumes that one should not be able to read or use other applications on the phone as the phone is in Guided Access mode. <br>
 
-![image](https://user-images.githubusercontent.com/3501170/39089937-2f67aaec-4615-11e8-9d18-4009f05b4274.png)<Br>
+![image](https://user-images.githubusercontent.com/3501170/39089937-2f67aaec-4615-11e8-9d18-4009f05b4274.png)
 
 4) Try to call the application directly from the URL using hard links. <Br>
 - To open: Mail type: message:// <Br>
 - To open: Messages type: sms:// <Br>
 ![image](https://user-images.githubusercontent.com/3501170/39090144-379786b0-461a-11e8-8963-6ac92ff35dac.png) <Br>
     
-5) User gets the warning message saying that the “Guided Access is enabled. Triple-click the home button or use Touch ID to exit”. Basically, at this point of time user can’t access the message application and hence can’t read any text messages on the device.
+5) User gets the warning message saying that the “Guided Access is enabled. Triple-click the home button or use Touch ID to exit”. Basically, at this point of time user can’t access the message application and hence can’t read any text messages on the device.<br>
 
 ![image](https://user-images.githubusercontent.com/3501170/39090201-c1485ffa-461b-11e8-834b-87d98967b12e.png)
 
-6) On clicking the home button thrice user needs to put the PIN to access other applications on the phone.
+6) On clicking the home button thrice user needs to put the PIN to access other applications on the phone.<br>
 
 ![image](https://user-images.githubusercontent.com/3501170/39090210-01582d00-461c-11e8-9f7b-f75a467bd58b.png)
 
-7) Now, click on the share option in the Safari Browser to see where can we share the Browser link.
+7) Now, click on the share option in the Safari Browser to see where can we share the Browser link.<br>
 
-https://user-images.githubusercontent.com/3501170/39090217-1d52b66a-461c-11e8-9b59-b50fde3719b7.png
+![image]https://user-images.githubusercontent.com/3501170/39090217-1d52b66a-461c-11e8-9b59-b50fde3719b7.png)
 
-8) Click on the Message icon
+8) Click on the Message icon<br>
 ![image](https://user-images.githubusercontent.com/3501170/39090220-3fb985a8-461c-11e8-98da-132bf8ec25cc.png)
 
-9) It opens the Message application inside Guided Access mode. Now click on the ⊕ button to see the contact details.
+9) It opens the Message application inside Guided Access mode. Now click on the ⊕ button to see the contact details.<br>
 ![image](https://user-images.githubusercontent.com/3501170/39090223-618862e4-461c-11e8-8e2f-79ebab5040b6.png)
 
-10) Choose the individual contact from the contacts and one can read all the text messages between 2 parties even though one is using Guided Access mode.
+10) Choose the individual contact from the contacts and one can read all the text messages between 2 parties even though one is using Guided Access mode.<br>
 ![image](https://user-images.githubusercontent.com/3501170/39090235-c0f58fb8-461c-11e8-841e-1d5b361a2161.png)
 
-11) Same goes for the other applications. Share the link from Browser with Notes or Reminders application to get access to sensitive information from those applications.
+11) Same goes for the other applications. Share the link from Browser with Notes or Reminders application to get access to sensitive information from those applications.<br>
 
 ![image](https://user-images.githubusercontent.com/3501170/39090258-7a38afb4-461d-11e8-801c-8cacd93fe5db.png)
+
+12) Going into Photos is bit tricky from the Browser, howerver, it's not impossible.
+
+13) While browsing to other non iOS applications, Apple check for Guide Access Mode and doesn't allow one to look into that application.
+For eg: using share from Safari to read Whatsapp or Gmail messages.
+
 
