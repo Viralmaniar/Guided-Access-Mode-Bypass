@@ -46,3 +46,5 @@ https://www.howtogeek.com/252670/how-to-put-an-ipad-into-kiosk-mode-restricting-
 Please follow the steps to break out of the Guided Access mode and see users text messages, photos, notes and reminders.
 
 1)  Go to settings and turn on the Guided Access feature
+![image](https://user-images.githubusercontent.com/3501170/39089917-8d8c3616-4614-11e8-9481-33c64389dd4a.png)
+
