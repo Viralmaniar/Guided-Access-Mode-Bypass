@@ -21,8 +21,8 @@ You can read more about this in here: https://support.apple.com/en-au/HT202612
 
 - https://www.imore.com/how-use-guided-access-iphone-and-ipad
 
-# Few articles talks about security of guided access mode pr kiosk mode
-There are numeraous articles online, which talks about how Guided Access Mode security allows you to handover your phone to someone without worrying about them to get out of the app and read your messages or look into your private photos etc.
+# Few articles talk about security of guided access mode or kiosk mode
+There are numerous articles online, which talks about how Guided Access Mode security allows you to handover your phone to someone without worrying about them to get out of the app and read your messages or look into your private photos.
 
 1) How to use Guided Access to secure your iPad or iPhone: 
 https://www.computerworld.com/article/3162738/apple-ios/how-to-use-guided-access-to-secure-your-ipad-or-iphone.html
@@ -85,9 +85,28 @@ Please follow the steps to break out of the Guided Access mode and see users tex
 
 ![image](https://user-images.githubusercontent.com/3501170/39090258-7a38afb4-461d-11e8-801c-8cacd93fe5db.png)
 
-12) Going into Photos is bit tricky from the Browser, howerver, it's not impossible.
+12) Going into Photos is bit tricky from the Browser, however, it's not impossible.
+- After clicking on the ⊕ button and choosing the contact name long press on the contact name from the messaging application. <br>
+![image](https://user-images.githubusercontent.com/3501170/39128185-793f02c4-474a-11e8-827c-31e35bc81bc6.png)
 
-13) While browsing to other non iOS applications, Apple check for Guide Access Mode and doesn't allow one to look into that application.
+- This opens the contact application with edit option as shown below <br>
+![image](https://user-images.githubusercontent.com/3501170/39128529-5a50c752-474b-11e8-82ea-659fda762201.png)
+
+- Click on edit button allows a user to upload a photo for a contact.
+![image](https://user-images.githubusercontent.com/3501170/39129462-e4795370-474d-11e8-8f31-bdc3fe17a873.png)
+
+- Click on "Choose Photo" option which will open photo album of a user.
+![image](https://user-images.githubusercontent.com/3501170/39129666-67471d28-474e-11e8-8fba-5df3601c7d38.png)
+
+- User gets full access to photo album from Guided Access Mode
+![image](https://user-images.githubusercontent.com/3501170/39129812-c7abdd02-474e-11e8-9140-300bdecffc1f.png)
+
+13) While browsing to other non-iOS applications, Apple check for Guide Access Mode and doesn't allow one to look into that application.
 For eg: using share from Safari to read Whatsapp or Gmail messages.
+
+I hope you find this information useful. If you have any questions, ideas or suggestions - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
+
+Happy hunting!
+
 
 
